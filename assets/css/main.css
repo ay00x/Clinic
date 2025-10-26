@@ -8,6 +8,10 @@
 
 @charset "UTF-8";
 
+[ng-cloak] {
+  display: none !important;
+}
+
 /*--------------------------------------------------------------
 # Font & Color Variables
 # Help: https://bootstrapmade.com/color-system/
